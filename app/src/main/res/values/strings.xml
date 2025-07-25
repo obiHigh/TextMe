@@ -1,3 +1,16 @@
 <resources>
+    <!-- App Name Label -->
     <string name="app_name">TextMe</string>
+
+    <!-- Register Page Labels -->
+    <string name="welcome_message">Welcome!</string>
+    <string name="create_account_message">Please create an account</string>
+    <string name="enter_username">Enter Username</string>
+    <string name="enter_email">Enter Email</string>
+    <string name="enter_password">Enter Password</string>
+    <string name="enter_phone_num">Enter Phone Number</string>
+    <string name="enter_tag">Enter Tag</string>
+    <string name="member_message">Already a member?</string>
+    <string name="auth_link">SignIn</string>
+    <string name="reg_message">Register</string>
 </resources>

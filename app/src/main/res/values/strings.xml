@@ -13,4 +13,11 @@
     <string name="member_message">Already a member?</string>
     <string name="auth_link">SignIn</string>
     <string name="reg_message">Register</string>
+
+    <!-- Login Page Labels -->
+    <string name="sign_in_message">SignIn</string>
+    <string name="not_reg_message">Not registered?</string>
+    <string name="reg_link">SignUp</string>
+    <string name="auth_message">Authenticate</string>
+
 </resources>
